@@ -2,6 +2,7 @@ class Security {
 
     constructor(){
 
+        //a
         this.access1 = createInput("Código 1")
         this.access1.position(100,90);
         this.access1.style('background', 'white');  
